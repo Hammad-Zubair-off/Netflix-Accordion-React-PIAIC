@@ -1,0 +1,65 @@
+body
+{
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+    color: #ffffff;
+    background-color: black;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.togglebutton
+{
+    display: block;
+    margin: 40px auto 0;
+}
+
+.toggle_active
+{
+    background-color: lightgreen;
+    display: block;
+    margin: 40px auto 0;
+}
+.Accordion
+{
+    width: 80vw;
+}
+.wrapper
+{
+    min-height: 100vh;
+    margin: 2vh 0 5vh 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95vw;
+}
+
+.title
+{
+    background-color: #2d2d2d;
+    color: #ffffff;
+    font-size: 26px;
+    height: 86px;
+    width: 100%;
+    display: flex;
+    padding: 0 40px;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+
+}
+
+.title:hover
+{
+    background-color: #414141;
+}
+
+.description
+{
+    font-size: 22px;
+    background-color: #2d2d2d;
+    width: 100%;
+    padding: 13px 40px;
+    text-align:justify;
+    display: flex;
+}
