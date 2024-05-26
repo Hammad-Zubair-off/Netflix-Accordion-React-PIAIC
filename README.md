@@ -14,11 +14,11 @@ This project showcases a React-based Accordion component inspired by Netflix's i
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo.git](https://github.com/Hammad-Zubair-off/Netflix-Accordion-React-PIAIC)
+    git clone https://github.com/Hammad-Zubair-off/Netflix-Accordion-React-PIAIC
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo
+    cd Netflix-Accordion-React-PIAIC
     ```
 3. Install the dependencies:
     ```sh
